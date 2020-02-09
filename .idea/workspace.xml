@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b989e04-3f74-4b11-a503-5dae1a83d89a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZe9jDs5cUDvuAkG1jjgxOOlqL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FileWriterDemo">
+    <configuration name="FileOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileoutputstream.FileOutputStreamDemo" />
+      <module name="file_write_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileoutputstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filewriter.FileWriterDemo" />
+      <module name="file_write_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="filewriter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printwriter.PrintWriterDemo" />
+      <module name="file_write_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="printwriter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileWriterDemo" />
+        <item itemvalue="Application.PrintWriterDemo" />
+        <item itemvalue="Application.FileOutputStreamDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b989e04-3f74-4b11-a503-5dae1a83d89a" name="Default Changelist" comment="" />
+      <created>1581257894121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581257894121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1402" height="202" key="GridCell.Tab.0.bottom" timestamp="1581260827450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581260827450" />
+    <state width="1402" height="202" key="GridCell.Tab.0.center" timestamp="1581260827449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581260827449" />
+    <state width="1402" height="202" key="GridCell.Tab.0.left" timestamp="1581260827449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581260827449" />
+    <state width="1402" height="202" key="GridCell.Tab.0.right" timestamp="1581260827450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581260827450" />
+  </component>
+</project>
